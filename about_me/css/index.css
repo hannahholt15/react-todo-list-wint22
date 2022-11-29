@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+}
+body {background-color: grey}
+footer {text-align:center}
+ul {text-align: left}
+h1 {text-align: center;}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  ul {text-align: left;}
